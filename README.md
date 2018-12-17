@@ -1,4 +1,6 @@
 # MiniProjet-Java-Mysql-esti
+Pour tester le projet copier le dossier projet sur le deuscieme ligne danes  votre serveuweb commne apache ou autre Et pour la base de donne il y a le fichier .sql dedans que vous pouvez alimenter le miniprojet.
+
 C'est un mini projet en java pour relier le serveur sql et
 enfaite on a corigé le truc sur java et dans le dossier projet le fichier web avec PhP se trouve
 
