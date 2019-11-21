@@ -45,13 +45,13 @@ CREATE TABLE IF NOT EXISTS `personne` (
 --
 
 INSERT INTO `personne` (`id`, `nom`, `prenom`, `adresse`, `cin`, `pseudo`, `password`) VALUES
-(9, 'Dupont', 'Jean', 'Rue du Paradis', '123456789012', 'JDup', 'mdp'),
-(10, 'Jackson', 'Michael', 'Unit State', '555555555555', 'MJ', 'mdp'),
-(11, 'Ramora', 'Favoris', 'Tana', '454511', 'Ramora Favoris', 'mdp'),
-(14, 'ytre', 'tre', 'terze', 'egrzfe', 'fdeg', 'mdp'),
-(7694, 'f', 'f', 'f', 'f', 'MR', 'mdp'),
+(9, 'Dinahasina', 'RALAIVAO', 'Mahamanina', '123456789012', 'JDup', 'mdp'),
+(10, 'Dnh', 'Michael', 'Andoharanomavo', '555555555555', 'MJ', 'mdp'),
+(11, 'RaNirina', 'Favoris', 'Tana', '454511', 'Ramora Favoris', 'mdp'),
+(14, 'Ralaivao', '7894', 'terze', 'egrzfe', 'fdeg', 'mdp'),
+(7694, 'MickelAngelo', 'EStics', 'f', 'f', 'MR', 'mdp'),
 (7695, 'Uzumaki', 'Naruto', 'Konoha', '0', 'Naruto', 'mdp'),
-(7693, 'h', 'f', 'f', 'f', 'f', 'f');
+(7693, '124', '6548', 'f', 'f', 'f', 'f');
 
 -- --------------------------------------------------------
 
